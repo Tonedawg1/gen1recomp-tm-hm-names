@@ -1,6 +1,4 @@
-A simple quality-of-life mod for Gen1Recomp.
-
-This mod shows the move names next to TM/HM numbers (Gen 2 style).  
+This mod shows the move names next to TM/HM numbers (Gen 2 style) for Gen1Recomp.
 Long names are shortened with a period so they fit cleanly in the bag list.
 Full disclosure this was made with the help of AI.
 
