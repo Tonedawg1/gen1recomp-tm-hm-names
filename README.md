@@ -1,6 +1,6 @@
 # TM/HM Move Names
 This mod shows the move names next to TM/HM numbers (Gen 2 style) for Gen1Recomp.
-Long names are shortened with a period so they fit cleanly in the bag list.
+Long names are shortened until you hover over them, this can be turned off if you want in the mod options if you want.
 Full disclosure this was made with the help of AI.
 
 This is intended for the Gen 1 games (red / blue / yellow). Gen 2 has something like this built in by default.
