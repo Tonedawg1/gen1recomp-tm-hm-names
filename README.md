@@ -1,5 +1,6 @@
 # TM/HM Move Names
 This mod shows the move names next to TM/HM numbers (Gen 2 style) for Gen1Recomp.
+
 Long names are shortened until you hover over them, this can be turned off if you would rather them just be truncated.
 Full disclosure this was made with the help of AI.
 
