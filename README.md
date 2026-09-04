@@ -6,7 +6,7 @@ Full disclosure this was made with the help of AI.
 
 This is intended for the Gen 1 games (red / blue / yellow). Gen 2 has something like this built in by default.
 
-Example Image: https://imgur.com/a/gen1recomp-tm-hm-move-names-example-J4PBrYb 
+Example Image: https://imgur.com/a/gen1recomp-tm-hm-move-names-example-v1-1-0-EBJ36Y3
 
 ## Install
 Grab the latest zip from "Releases" on the right.
