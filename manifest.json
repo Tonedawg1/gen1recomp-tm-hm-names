@@ -3,7 +3,7 @@
   "name": "TM/HM Move Names",
   "version": "1.2.0",
   "author": "Tonedawg 1",
-  "description": "Shows the move name next to TM/HM numbers (Gen 2 style). Long names scroll when enabled in mod options. Gen 1 bag/PC/shops; Gen 2 shops and Game Corner.",
+  "description": "Shows the move name next to TM/HM numbers. Long names scroll when enabled in mod options. Gen 1 bag/PC/shops; Gen 2 shops and Game Corner.",
   "entry": "main.lua",
   "api": 2,
   "games": ["red", "blue", "yellow", "gold", "silver", "crystal"]
