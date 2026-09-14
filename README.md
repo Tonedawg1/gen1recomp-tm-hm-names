@@ -4,7 +4,7 @@ Long names are shortened until you hover over them, this can be turned off in th
 This works with the player's inventory, the pc, and shops.
 Full disclosure this was made with the help of AI.
 
-This is intended for the Gen 1 games (red / blue / yellow). Gen 2 has something like this built in by default.
+Now with Gen 2 Support for the Shops / Game Corners! 
 
 Example Image: https://imgur.com/a/gen1recomp-tm-hm-move-names-example-v1-1-0-EBJ36Y3
 
